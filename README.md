@@ -64,6 +64,7 @@ style="border-radius:12px;">
 ✔ Wine Quality Predictor (ML + Flask)  
 ✔ Data Analytics Projects (Pandas / NumPy / Visualization)
 
+📧 Email: [tufailhamza207@gmail.com](mailto:tufailhamza207@gmail.com)
 ---
 
 <div align="center">
