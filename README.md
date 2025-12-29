@@ -10,18 +10,10 @@
 <!--          INTRO SECTION          -->
 <!-- =============================== -->
 
-<div align="left">
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00FF9C&width=700&lines=Hi%2C+I'm+Hamza+Tufail;BS+Software+Engineering+Student;Aspiring+Data+Analyst+%2F+Future+Data+Scientist;Python+%7C+Pandas+%7C+SQL+Learner;Passionate+about+ML+%26+AI" />
+</p>
 
-## 👋 Hi, I’m <b>Hamza Tufail</b>
-
-BS Software engineering Student at <b>SMIU Karachi</b>  
-Aspiring <b>Data Analyst / Future Data Scientist</b>
-
-I love working with data, building ML models, and learning
-how to deploy them using Flask & Streamlit.  
-Currently improving my skills in Python, Pandas, NumPy, SQL and Machine Learning.
-
-</div>
 
 <br/>
 
