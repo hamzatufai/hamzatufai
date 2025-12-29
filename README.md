@@ -11,7 +11,7 @@
 <!-- =============================== -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00FF9C&width=700&lines=Hi%2C+I'm+Hamza+Tufail;BS+Software+Engineering+Student;Aspiring+Data+Analyst+%2F+Future+Data+Scientist;Python+%7C+Pandas+%7C+SQL+Learner;Passionate+about+ML+%26+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00FF9C&width=700&lines=Hi%2C+I'm+Hamza+Tufail;BS+Software+Engineering+Student+At+SMIU;Aspiring+Data+Analyst+%2F+Future+Data+Scientist;Python+%7C+Pandas+%7C+SQL+Learner;Passionate+about+ML+%26+AI" />
 </p>
 
 
