@@ -71,7 +71,5 @@ style="border-radius:12px;">
 <b>“Learning consistently to become better in Data Science.”</b>
 </div>
 ---
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/hamzatufai/hamzatufai/output/github-contribution-grid-snake.svg)
 
