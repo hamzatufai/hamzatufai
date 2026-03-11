@@ -69,6 +69,7 @@ style="border-radius:12px;">
 
 <div align="center">
 <b>“Learning consistently to become better in Data Science.”</b>
+  <button>Close</button>
 </div>
 
 
